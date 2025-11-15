@@ -1,5 +1,3 @@
-## Hello World! I'm Erlangga Putra 👋
-
 ![Header](img/github-header-banner.png)
 
 #### Skills
