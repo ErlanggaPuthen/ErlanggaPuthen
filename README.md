@@ -1,6 +1,8 @@
 ![Header](img/github-header-banner.png)
 
 ### **Skills**
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)](https://skillicons.dev)
+
 ![Header](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Header](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Header](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -24,3 +26,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://raw.githubusercontent.com/ErlanggaPuthen/ErlanggaPuthen/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErlanggaPuthen/ErlanggaPuthen/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErlanggaPuthen/ErlanggaPuthen/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ErlanggaPuthen/ErlanggaPuthen/output/pacman-contribution-graph.svg">
+</picture>
